@@ -11,7 +11,7 @@ input:-webkit-autofill {
 }
 
 header {
-  background-color: rgb(226, 50, 50);
+  background-color: #222126;
   display: flex;
   color: white;
   font-size: 10px;
